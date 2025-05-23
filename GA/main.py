@@ -4,7 +4,7 @@ import numpy as np
 from genetic_algo import GeneticAlgorithm
 
 
-def load_and_preprocess_food_data(csv_path="../data/foods.csv"):
+def load_and_preprocess_food_data(csv_path="data/foods.csv"):
     df = pd.read_csv(csv_path)
     # Nutrient values are per 100g, price is per kg.
     # Convert nutrient values to be per kg for easier calculation with quantities in kg.
