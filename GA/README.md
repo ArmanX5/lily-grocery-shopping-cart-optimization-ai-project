@@ -154,12 +154,4 @@ Daily nutritional requirements and optimal ranges are also defined in `main.py` 
   - See how many nutrients fall "IN OPTIMAL RANGE". This is the target for the bonus optimization.
 - **Food Plan**: The list of foods and quantities provides a practical shopping list. It's important to consider if the quantities are reasonable for consumption (e.g., not too much of one specific item unless intended).
 
-Due to the stochastic nature of Genetic Algorithms, running the program multiple times might yield slightly different (but hopefully similarly good) solutions.
-
-## Potential Future Enhancements
-
-- Implement the **Simulated Annealing** algorithm for comparison or as a hybrid approach.
-- Introduce constraints for food variety or maximum/minimum servings of certain food groups.
-- Add a Graphical User Interface (GUI) for easier interaction.
-- Incorporate food preparation waste or yield factors.
-- Allow for more complex dietary preferences (e.g., vegan, gluten-free by filtering `foods.csv`).
+_Due to the stochastic nature of Genetic Algorithms, running the program multiple times might yield slightly different (but hopefully similarly good) solutions._
