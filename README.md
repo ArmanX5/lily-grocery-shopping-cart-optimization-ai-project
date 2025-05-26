@@ -1,5 +1,9 @@
 # Lily's Grocery Shopping Cart Optimization Project
 
+## Contributors
+
+**Arman Akhoundy** ([ArmanX5](https://github.com/ArmanX5)) & **Amirreza Abbasian** ([Amirreza0924](https://github.com/Amirreza0924))
+
 ## 1. Project Overview 🎯
 
 This project aims to help Lily, a 21-year-old student, optimize her monthly grocery shopping cart. The goal is to design a 30-day food plan that meets her daily nutritional requirements, stays within her monthly budget of 4,000,000 Toman, and, ideally, achieves "more optimal" levels for certain nutrients. The project explores two optimization algorithms: **Genetic Algorithm (GA)** and **Simulated Annealing (SA)**.
